@@ -4,7 +4,7 @@ namespace academia;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Cliente extends Model
+class Academia extends Model
 {
     //
 }
